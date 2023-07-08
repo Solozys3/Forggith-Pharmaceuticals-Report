@@ -82,15 +82,15 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiN
 
 ## Analysis
 ### Overview/Home Page: 
-![](Home_Page.png)
+![](Home.png)
 
 - Has a Date filter that filters through 2022 - 2025.
 - The three tabs at the top are buttons with hovering effects and each navigates through to the pages with similar name.
 - Total of 27 million products were sold.
 - Total revenue generated was $11.12 billion.
-- Total profits made within the time period is $90,752
-### Product page: 
-![](Product_Page.png)
+- Total target was $8.45 billion.
+### Sales Report page: 
+![](Sales_Report.png)
 
 - There is a table showing Production details by class, color, style and name by size and profits made.
 - There is a chart displaying top products with high revenues.
