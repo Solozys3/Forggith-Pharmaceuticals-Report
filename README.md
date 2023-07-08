@@ -80,6 +80,9 @@ The report comprises of 3 pages:
 
 You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiNGY1MTkzNTUtM2UwNi00NmNmLTg5M2MtMzFjNDc0YTg4YjI0IiwidCI6IjVkMmExNjk0LWNiNzAtNDJlYi04MmNhLTRmMjBlMWMyODFmMSJ9)
 
+I also incorporated tooltips for better insights.
+![](Tooltip.png)
+
 ## Analysis
 ### Overview/Home Page: 
 ![](Home.png)
@@ -87,37 +90,38 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiN
 - Has a Date filter that filters through 2022 - 2025.
 - The three tabs at the top are buttons with hovering effects and each navigates through to the pages with similar name.
 - Total of 27 million products were sold.
-- Total revenue generated was $11.12 billion.
+- Total revenue generated was $11.12 billion 💰
 - Total target was $8.45 billion.
-### Sales Report page: 
+### Sales Report Page:
 ![](Sales_Report.png)
 
-- There is a table showing Production details by class, color, style and name by size and profits made.
-- There is a chart displaying top products with high revenues.
-- There are 304 sellable products in total.
-### Work Order page: 
-![](WO_Page.png)
+- This page is sliced by Team, Year, Quarter and Month 🗓️
+- There are 4 KPI cards diplaying Total Target, Total Products, Volume Sold vs Target Volume and Total Revenue vs Target.
+- There are charts displaying Revenue by Product class, Revenue by Channel, Revenue distribution by City, Revenue month on month % change and Revenue vs Target PYTD.
+- There are 240 products in total.
+### Marketing Report Page: 
+![](Marketing_Report.png)
 
-- BB Ball bearing is the most ordered product with a total of 911.89k quantitites ordered.
-- Mountain-100 Silver gave the highest revenue with each yielding profits of $1,488.
-### Work Order Routing Page: 
-![](WOR_Page.png)
+- This page is sliced by Product Category, Team, Year, Quarter and Month 🗓️
+- There are 4 KPI cards diplaying Total Customers, Total Distributors, Volume Sold vs Target Volume and Total Revenue vs Target.
+- There are charts displaying Top and Bottom % products by Perfomance, Revenue Performancve by Team and also Performance by Sales Representatives. 
+- There are 551 Customers in total 🧑‍🤝‍🧑
+- There are 16 Distributors in total.
+ 
+## Conclusion / Insights
+- The Analgesics Product Class yielded the highest revenue of $2.2bn while the Antimalarial class yielded the lowest revenue of $1.4bn.
+- Ionclotide drug yielded the highest revenue of $262k as product sold while Diaxolol yielded the lowest of $72K in total.
+- 2023 gave the highest revenue of about $0.9bn when compared to its yearly target as against other years.
+- Distribution/Sales to Pharmacies yielded more revenue of 52.9% as compared to that of the Hospital channel.
+- The Delta team showed highest performance in all years generating a total revenue of $3.43bn 👍 while the Alfa team showd lowest performance of $2.42bn.
+- In 2022, Anne Wu performed best. In 2023, Abigail Thompson perfomed best. In 2024, Jimmy Grey performed best and in 2025, Stella Given performed best. Overall, Abigail Thompson yielded the most revenue of $929.43m ✨
 
-- Touring line had the highest average spent hours in production.
-### Date: 
-![](Date_Page.png)
+## Recommendation
+- I recommend expanding distribution and sales beyond Europe, as this will favour sales of other classes more, especially the antimalarial drugs.
+- Best performing teams should be given higher bonuses as this will make other teams perform better in future years to come.
+- Sales Representatives seen to be performing well should be also be given bonuses, or better still have their salaries increased and should also be considered for promotions.
 
-- The highest revenue was generated in 2011 with a total of $37,465.
-
-## Conclusion
-- Road line has the highest impact on revenue generated.
-- 2011 was the most productive year. 🤑
-
-![](Home_Page.png)
-Features
-- Has a Date and Production line filter.
-- The four tabs at the top are buttons with hovering effects and each navigates through to the pages with similar name.
-
+![](Thank_you.jfif)
 
 
 
